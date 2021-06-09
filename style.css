@@ -1,0 +1,34 @@
+h1{
+    color:darkviolet;
+}
+
+.header{
+    background-color: aquamarine;
+    display:flex;
+    justify-content:space-between;
+}
+
+.grid{
+    background-color: cyan;
+    display:flex;
+    justify-content:space-between;
+    flex-wrap:wrap;
+}
+
+h2,p{
+    text-align:center;
+}
+
+.description{
+    background-color: yellow;
+}
+
+.footer{
+    background-color: tomato;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+*{
+    background-color: gold;
+}
